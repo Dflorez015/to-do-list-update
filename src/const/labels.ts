@@ -1,0 +1,1 @@
+export const theadValues = ["✔️", "Título", "Descripción", "Opciones"]
